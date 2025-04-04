@@ -6,7 +6,7 @@ build
 *.odt
 *.pdf
 *.txt
-*.docx
+# *.docx
 
 # Prerequisites
 *.d
